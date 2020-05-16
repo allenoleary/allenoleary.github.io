@@ -28,9 +28,9 @@ My Audax blog has a few pieces that a general reader might like:
 
 <img src="/assets/img/mustang.jpg">
 
-I have written a book about cycling and me and called it 'Balance'. I expanded a series of blog posts I wrote about every bike I have ever owned into 70k words about the experience of cycling, of being a cyclist across many disciplines and what cycling means in a life that is otherwise pretty normal. 
+I have written a book about cycling and called it 'Balance'. Expanded from a series of blog posts I wrote about every bike I have ever owned, I write about the experience of cycling, of being a cyclist across many disciplines and what cycling means in a life that is otherwise pretty normal. 
 
-ALong the way I touch on drug use, depression, object philosophy, being a courier, being an pioneer mountain bike in NZ, road racing, a lot about comutting, riding ultra distance events, about being assaulted on a bike, bike friendships, climate change, suffering and passion. I keep the writing about the bikes themselves minimal as no one really cares about things like what stell your forks are made of. Well people do, but there are already places online for people like that (ok, people like me) but the general reader is not going to be interested in that so much.
+Along the way I touch on drug use, depression, object philosophy, being a courier, being an pioneer mountain biker in NZ, road racing, a lot about comutting, riding ultra distance events; about being assaulted on a bike, bike friendships, climate change, suffering and passion. I keep the writing about the bikes themselves minimal as no one really cares about things like what steel your forks are made of. Well people do, but there are already places online for people like that - the general reader is not going to be interested in that so much.
 
 This book is more or less finished and I am currently hawking it around agents and publishers to see if it is good enough for a print run.
 
