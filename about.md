@@ -1,9 +1,9 @@
 ---
 layout: default
-title: All about in the lakes
-mast: In which we go a rambling and rocking in the Lakes, a winter observed and wondered at.
-margin-note: This is a nargin note
-feature-image: lakes.jpg
+title: About
+mast: A quick tour
+
+feature-image:
 feature-caption: Stephanie in the lakes
 feature-position: right top
 ---
@@ -27,7 +27,7 @@ Being an actor was good but I become a lot more interested in scripts - souring 
 
 ## Round 4: Electronic Writing and Grad Dip
 
-I moved to Australia and did a Grad Dip in Swinburne in Writing and learned about a new form of writing called 'hyper text' or 'electronic' writing. I was fascinated and produced a number of ambitious creative and theoretical works in the late 90s, while still writing plays. About this time I also got invovled in the making of websites - my day job ever since.
+I moved to Australia and did a Grad Dip in Swinburne in Writing and learned about a new form of writing called 'hyper text' or 'electronic' writing. I was fascinated and produced a number of ambitious creative and theoretical works in the late 90s, while still writing plays. About this time I also got involved in the making of websites - my day job ever since.
 
 ## Round 5: Film scripts / Fiction
 
@@ -37,4 +37,4 @@ At the turn of the Millennium I moved to London. While still writing plays I als
 
 While I was writing fiction I also started writing pieces about cycling and then my 'blog to book' Balance. The attraction of this at the time was simply to see something on a page in public - I could write a good blog in a couple of sittings. I never really stopped writing poetry over many many years but about this time (2015) I started to take it a little more seriously again and have enjoyed getting into the contemporary poetry in the UK.
 
-And I am still writing plays - the place where I feel most at home. However I would write an extended piece of non-fiction/creative non-fiction like Balance in a heart beat; currently I am seriously considering what my next piece will be (and while I am doing that I continue to write plays - one every few years).
+And I am still writing plays - the place where I feel most at home. However I would write an extended piece of non-fiction/creative non-fiction like Balance in a heart beat; currently I am seriously considering what my next piece will be. The lesson here was that my 'hobby' writing was better than what I thought was the 'real' writing at the time. And while I was doing all that I continue to write plays - one every few years now.
