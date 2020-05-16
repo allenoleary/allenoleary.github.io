@@ -1,6 +1,6 @@
 - name: Home
   link: /
-- name: All the works
+- name: The works
   link: /works.html
 - name: Stageplays
   link: /stage.html
@@ -12,5 +12,7 @@
   link: /digital.html
 - name: Cycology
   link: /cycology.html
+- name: Articles/blogs
+  link: /articles.html
 - name: About
   link: /about.html

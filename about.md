@@ -15,7 +15,7 @@ feature-position: right top
 
 As an upstart 17 year old I did the infamous Creative Writing course at Victoria University with Bill Manhire. I got an A which meant quite a lot a the time, being so young. But then I lost confidence and, while still doing a lot of writing, never had the confidence to try to get anything published.
 
-I also had the drama bug and, while I was attending University in Wellington and Dunedin, managed to fit a little bit of coursework around a frenetic schedule of theatre making. This was a not a great way to get doo marks or finish a degree. One of the years I decided to limit my acting I got straight As across my arts courses but my heart wasn't in it.
+I also had the drama bug and, while I was attending University in Wellington and Dunedin, managed to fit a little bit of coursework around a frenetic schedule of theatre making. This was a not a great way to get good marks or finish a degree. One year I decided to limit my acting I got straight As across my arts courses but my heart wasn't in it.
 
 ## Round 2: Drama School and being an actor
 
