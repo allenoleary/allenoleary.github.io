@@ -1,0 +1,31 @@
+I"¥<ol id="markdown-toc">
+  <li><a href="#about-page" id="markdown-toc-about-page">About page</a></li>
+  <li><a href="#this-is-heading-two" id="markdown-toc-this-is-heading-two">This is heading two</a></li>
+  <li><a href="#footnotes" id="markdown-toc-footnotes">Footnotes</a></li>
+</ol>
+
+<h2 id="about-page">About page</h2>
+
+<p>This page tells you a little bit about me.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></p>
+
+<h2 id="this-is-heading-two">This is heading two</h2>
+
+<p>And you can just write as you go, no need for complications!</p>
+
+<p id="para-one">A simple paragraph with an ID attribute.</p>
+
+<p>This is some text.. Other text.</p>
+
+<div class="article-full">
+This should be full width
+</div>
+
+<h2 id="footnotes">Footnotes</h2>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Some crazy footnote definition.Â <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

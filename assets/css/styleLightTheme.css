@@ -1,0 +1,127 @@
+---
+---
+.turq { background-color: #40E0D0; }
+
+html, body {
+  height: 100%;
+  margin: 0; padding: 0;
+  font-family:  'Conso', 'Courier New', monospace;
+  font-size: 18px;
+  background-color: white;
+  color: white;
+  counter-reset: section;
+
+}
+
+h1, h2 { font-family: 'Conso', 'Courier New', monospace; font-weight: 600; font-size: 18px; line-height: 28px;  }
+p, li {font-size: 18px; line-height: 28px; }
+a {; color: #ec007c; text-decoration: none;}
+
+h2::before {
+  counter-increment: section;
+  content: "" counter(section) "/. ";
+}
+
+/*-- BRANDING --*/
+article {
+  display: grid;
+  grid-template-columns:
+    [full-start] minmax(1em, 1fr)
+    [main-start] minmax(0, 48em)
+    [main-end] minmax(1em, 1fr) [full-end];
+    /*background-color: #40E0D0;*/
+
+}
+
+header {
+  display: grid;
+  grid-template-columns:
+    [full-start] minmax(1em, 1fr)
+    [main-start] minmax(0, 48em)
+    [main-end] minmax(1em, 1fr) [full-end];
+
+
+}
+
+menu{grid-column: main}
+
+figcaption {text-align: right}
+
+
+nav ul {
+  list-style: none;
+  padding: 0 0 0 .5em;
+  margin: 0;
+  display: inline;
+
+}
+nav li a::before {
+  content: "[";
+}
+
+nav li a::after {
+  content: "]";
+}
+
+nav a {
+  text-decoration: none;
+  color:  #66d9ef;
+  transition: .3s background-color;
+  padding:;
+}
+
+a:hover {
+  background-color: #005f5f;
+}
+
+
+.feature {
+  grid-column: full;
+  height:70vh;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  color: #fff;
+  position: relative;
+  transition: .5s all;
+  grid-row:2;
+}
+
+img     {
+    width: 100%;
+    -webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(50%);
+}
+
+h1::before {
+  content: "// ";
+}
+
+
+
+
+
+
+/*figcaption {text-align:right;
+background-color: white;
+color:rgba(20,18,15,1);
+padding: .5rem 1rem;
+margin-bottom: 2rem;
+position: relative;
+bottom: 0px;
+}*/
+
+section {
+  grid-column: main;
+  background-color: #00303e;
+      border-top: 1px dashed white;
+}
+
+section:nth-child(3) {box-shadow:  0px 10px 10px 5px rgba(0,0,0,.025)}
+
+
+.current {
+  color: green;
+}

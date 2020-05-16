@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" type="text/css" title="dark" href="/assets/css/styleDarkTheme.css">
+<link rel="alternate stylesheet" type="text/css" title="light" href="/assets/css/styleDarkTheme.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
+
+
+
+  </head>
+  <body class="listing">
+
+  <article>
+
+    <nav>
+      <div id="menu">
+      <h1>Allen&nbsp;O'Leary ------------</h1>
+      <ul>
+      {% for item in site.data.sitenav %}
+        <li><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li>
+    {% endfor %}
+  </ul>
+    </div>
+
+
+
+
+  </nav>
+
+
+    <!--  <section>
+        <h1>{{page.title}}</h1>
+        <p>{{ page.mast }}</p>
+      </section> //-->
+
+<!-- conditional to check if there is a feature image present -->
+
+
+
+
+
+
+  <section>
+
+<h1>{{page.title}}</h1>
+
+  <p>{{ page.mast }}</p>
+  {% if page.feature-image %}
+      <img src="/assets/img/{{page.feature-image}}">
+      <figcaption>{{ page.feature-caption}}</figcaption>
+
+
+
+  {% endif %}
+
+          {{ content }}
+      </section>
+
+
+
+    </article><!-- article-->
+
+    <footer>
+
+    </footer>
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
+
+ <script type = "text/javascript" src = "/assets/js/collapse.js" ></script>

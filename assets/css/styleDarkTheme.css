@@ -1,0 +1,141 @@
+---
+---
+.turq { background-color: #40E0D0; }
+
+html, body {
+  height: 100%;
+  margin: 0; padding: 0;
+  font-family:  'Conso', 'Courier New', monospace;
+  font-size: 20px;
+  background-color: #00303e;
+  color: white;
+  counter-reset: section;
+
+}
+
+h1, h2 { font-family: 'Conso', 'Courier New', monospace; font-weight: bold; font-size: 20px; line-height: 28px; color: #efe158 }
+p, li {font-size: 20px; line-height: 28px; }
+a {color: #66d9ef; text-decoration: none;}
+
+h2::before {
+  counter-increment: section;
+  content: "" counter(section) "/. ";
+}
+
+ul {padding:0; margin:0; line-height: 0}
+
+p {padding-left: 2.3em}
+.listing p {color: white }
+p.logline {color: white}
+p.details {color: #66d9ef}
+
+/*-- BRANDING --*/
+article {
+  display: grid;
+  grid-template-columns:
+    [full-start] minmax(10em, 3fr)
+    [main-start] minmax(0, 42em)
+    [main-end] minmax(1em, 2fr) [full-end];
+    /*background-color: #40E0D0;*/
+
+}
+
+.current {
+color: #66d9ef;
+}
+
+section {
+  grid-column: main;
+  background-color: #00303e;
+}
+
+.listing {
+  display: flex;
+  width: 100%;
+  background: url(/assets/img/dash.svg);
+  background-repeat: repeat-x;
+}
+
+.listing > div, .sublisting > div  {background-color: #00303e; margin-bottom: 12px}
+.sublisting > div {padding-left:2em}
+
+line {stroke:rgb(0, 0, 0); stroke-width: 2}
+
+
+.push {
+    margin-left: auto;
+}
+
+
+.collapsible {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-size: 20px;
+  padding: 3px 9px 3px 15px;
+  margin-left: 33%;
+  color: #66d9ef;
+  /*color: #66d9ef;*/
+  background-color: #00303e;
+  font-family: 'Conso', 'Courier New', monospace;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 12px 12px 18px 12px;
+  display: none;
+  overflow: hidden;
+  background-color: #555;
+}
+
+a.reviews {padding:6px;
+  color: white;
+background-color: #00303e}
+
+p < button {text-align: center}
+
+figcaption {text-align: right}
+
+nav {grid-cloumn: full; padding-left: 1em;}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+}
+nav li a::before {
+  content: "[";
+}
+
+nav li a::after {
+  content: "]";
+}
+
+nav a {
+  text-decoration: none;
+  color:  #66d9ef;
+  transition: .3s background-color;
+  padding:;
+}
+
+a:hover {
+  background-color: #005f5f;
+}
+
+
+
+
+img     {
+    width: 100%;
+    -webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(50%);
+  border:5px solid white;
+}
+
+h1::before {
+  content: "// ";
+}

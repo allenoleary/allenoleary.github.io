@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: All the works
+  link: /works.html
+- name: Stageplays
+  link: /stage.html
+- name: Screenplays
+  link: /screen.html
+- name: Poetry
+  link: /poems.html
+- name: Digital
+  link: /digital.html
+- name: Cycology
+  link: /cycology.html

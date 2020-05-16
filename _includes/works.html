@@ -1,0 +1,39 @@
+<div class="works-listing">
+
+  <h2>Introducing</h2>
+
+  <p>This site provides an overview of my creative output for the last, err, few decades.</p>
+
+  <p>Basic life story is; started as an actor in NZ, started writing plays, then moved to Australia and started writing other things, then moved to the UK about 20 years ago. Still writing over a broad range of disciplines, from poetry to film and plays.</p>
+
+  <p>Day job as an digital producer for Macmillan Cancer Support UK.</p>
+
+
+  <h2>The works</h2>
+
+  {% assign doclist = site.data.works | sort:'year' | reverse %}
+
+  {% for item in doclist %}
+      <div class="listing"><div>
+        {{ item.name }}
+          {% if item.short-code != null %}
+            <a href="{{ item.short-code }}.html"> [>] </a>
+          {% endif %}
+          </div>
+         <div class="push">{{ item.medium }} {{item.year}}</div>
+
+
+         </div>
+           <p>{{ item.logline }}</p>
+
+     {% for item in item.subfolderitems %}
+             <div class="sublisting"><div>
+               {{ item.name }}
+           {% if item.short-code != null %}
+               <a href="{{ item.short-code }}.html" > [>] </a>
+                 {% endif %}
+                 </div>
+               </div>
+          {% endfor %}
+      {% endfor %}
+</div>

@@ -1,0 +1,58 @@
+---
+layout: listing
+title: Screenplays
+mast: Feature screenplays available to read on request.
+feature-image:
+feature-caption:
+---
+
+<section>
+
+<h2>The 123</h2>
+
+<p class="logline">Logline: A middle aged woman with a settled life seeks revenge when her lover is assassinated in front of her.</p>
+
+<button type="button" class="collapsible" aria-label="Show details screen play called the one two three">Details [+]</button>
+<div class="content">
+<p>I've always liked the kind of thriller where someone normal is dumped in the middle of a confusing situation and has to work out what the hell is going on - and then take action to resolve their place in it.</p>
+<p>*The 123* started with the idea of an inversion and revenge. It inverts the trophe of cop investigating death of a member of the public, and it's about revenge. And this is revenge as a way of finding a voice and a role in life. Sometimes the clarity required of you in revenge can be a positive, particularly if you are a woman and not traditionally given the revenger role. What advantages can a mother bring to the relentless pursuit of an enemy?</p>
+<p class="details">*The 123* is a thriller set in the present. It takes place in the UK, France and Germany. While this is a spec script it is also achievable on a middling budget.</p>
+</div>
+
+
+<h2>The Rig</h2>
+
+<p class="logline">Logline: A film crew visit the worlds deepest-drilling Oil Rig only to discover that it is inhabited by a monster from the deep that takes human form.</p>
+
+<button type="button" class="collapsible" aria-label="Show details screen play called The Rig">Details [+]</button>
+<div class="content">
+<p>For a while I was obsessed with oil rigs - these massive structures that are both industrial but also at the mercy of the elements - water and fire.</p>
+<p>*The Rig* is a create horror where the create is the embodiment of Mother Nature. An MP and an attending news film crew are flown out to The Rig as part of a PR stunt before things go horribly wrong.</p>
+<p>It's also possibly the only horror script where the antagonist and protagonist are both pregnant - thematically this one is about protection, and how far you will go to protect what is important to you.</p>
+
+<p class="details">*The Rig* is a horror set in the present. This one is very much a spec script as it takes place on an oil rig - a prohibitively expensive place to film. I entered it into the Bluecat screenplay awards where it got a top 10% ranking.</p>
+</div>
+
+
+<h2>Boy on a bike</h2>
+
+<p class="logline">Logline: A child in the middle of a messy divorce falls in love with a friend who doesn't feel the same way.</p>
+
+<button type="button" class="collapsible" aria-label="Show details screen play called Boy on a bike">Details [+]</button>
+<div class="content">
+
+<p>*Boy on a bike* is a personal project, a classic coming of age script. It's also brutal about divorce and honest about teenage sexuality. This is the first screenplay I wrote where I really got writing for screen and thought - yes, I can make the transition from stageplays. </p>
+<p>This screenplay received good readings from directors and was optioned by a producer, but ultimately the subject matter makes it a tough sell for funding.</p>
+<p class="details">*Boy on a bike* is a coming of age story that could be set in the 70s or 80s. It is currently set in NZ. The key challenges in production would be finding actors to play the two boys. I entered it into the Bluecat screenplay awards where it got a top 10% ranking.</p>
+</div>
+
+<h2>Taking a bath (short)</h2>
+
+<p class="logline">Logline: A dyslexic philospher gets his neighbour to help him steal his ex-girlfriends bath - with tragic consequences.</p>
+
+<button type="button" class="collapsible" aria-label="Show details screen play called Boy on a bike">Details [+]</button>
+<div class="content">
+
+<p class="details">12 minute 16mm short shown NZ Film festival 1995 abd SBS TV (Aust)
+</p>
+</div>

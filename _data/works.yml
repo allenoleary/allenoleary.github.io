@@ -1,0 +1,103 @@
+
+
+- name: The White Queen
+  medium: Stageplay
+  group: stageplays
+  logline: A burnt-out film producer decides to settle back in the town she grew up in and discovers that the simple life is anything but.
+  year: 2020
+  short-code:
+
+- name: The Light
+  medium: Poetry
+  group: poems
+  logline: A sequence of twelve poems about the death of my father in law and being back in NZ unexpectedly
+  year: 2018
+  short-code:
+
+- name: The Rig
+  medium: Screenplay
+  group: screenplays
+  logline: A creature horror set on an oil rig, with enviromental themes and a pregnant protagonist
+  year: 2016
+  short-code: the-rig
+
+- name: The 123
+  medium: Screenplay
+  group: screenplays
+  logline: A burnt-out film producer decides to settle back in the town she grew up in and discovers that the simple life is anything but.
+  year: 2020
+  short-code: 123
+
+- name: My Inner Orc
+  medium: Stageplay
+  group: stageplays
+  logline: Paranoia and magic at a Lord of the Rings Convention
+  year: 2010
+  short-code: my0-inner-orc
+
+- name: Fond Love and Kisses
+  medium: Stageplay
+  group: stageplays
+  logline: A play about soldiers returning home to nothing.
+  year: 2003
+  short-code: flak
+
+
+- name: Deviations
+  medium: Stageplay
+  group: stageplays
+  logline: A black comedy of sexual manners.
+  year: 2000
+  short-code: deviations
+
+- name: Self Intra Network (SIN)
+  medium: Interactive
+  group: digital
+  logline: 10k essay about key ideas in tech and the theatre. Not even for a course.
+  year: 1998
+  short-code: sin
+
+- name: The Casino Project
+  medium: Interactive
+  group: digital
+  logline: 10k essay about key ideas in tech and the theatre. Not even for a course.
+  year: 1998
+  short-code: /assets/archive/1998-the-casino-project/index
+
+- name: The Vampyre Dances
+  medium: Stageplay
+  group: stageplays
+  logline: 10k essay about key ideas in tech and the theatre. Not even for a course.
+  year: 1996
+  short-code: vampyre
+
+- name: Boy on a bike
+  medium: Screenplay
+  group: screenplay
+  logline: Coming of age drama set in the middle of a divorce.
+  year: 2012
+  short-code:
+
+- name: Theatre in the age of intelligent machines
+  medium: Essay
+  group: other
+  logline: Longer piece about key ideas in tech and the theatre.
+  year: 2000
+  short-code: in-the-age
+
+- name: Taking a bath
+  medium: Short film
+  group: screenplays
+  logline: A short comedy about lying, stealing and Camus.
+  year: 1992
+  short-code:
+
+
+- name: Balance
+  medium: Non-fiction
+  group: other
+  logline: A book I am writing about all the bikes I have owned.
+  year: 2020
+  short-code: 
+  subfolderitems:
+
