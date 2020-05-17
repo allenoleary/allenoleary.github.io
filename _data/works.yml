@@ -98,6 +98,37 @@
   group: other
   logline: A book I am writing about all the bikes I have owned.
   year: 2020
-  short-code: 
+  short-code:
   subfolderitems:
 
+- name: Web Navigation Metaphors
+  medium: UX, web design
+  group: article
+  logline: It all changed with mobile.
+  year: 2013
+  short-code: web-nav-metaphors
+  subfolderitems:
+
+- name: News items 1994-2000
+  medium: Archive
+  group: article
+  logline: Archivery
+  year: 2000
+  short-code: news-1994-2001
+  subfolderitems:
+
+- name: The Sequence Approach
+  medium: Review
+  group: article
+  logline: Review of a script writing book
+  year: 2004
+  short-code: sequence-approach
+  subfolderitems:
+
+- name: Can designers teach writer's anything much?
+  medium: Writing advice
+  group: article
+  logline: Review of a script writing book
+  year: 2005
+  short-code: designers
+  subfolderitems:

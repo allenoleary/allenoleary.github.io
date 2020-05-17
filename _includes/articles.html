@@ -2,22 +2,25 @@
 
             <h2>Articles</h2>
 
-            <p>Archive of blog posts and articles</p>
+            <p>Articles and blog posts</p>
 
             {% assign doclist = site.data.works | sort:'year' | reverse %}
 
             {% for item in doclist %}
+              {% if item.group == "article" %}
                 <div class="listing"><div>
                   {{ item.name }}
-                    {% if item.short-code != null %}
-                      <a href="{{ item.short-code }}.html"> [>] </a>
+                    {% if item.short-code != "" %}
+                      <b><a href="/articles/{{ item.short-code }}.html"> [>] </b></a>
                     {% endif %}
                     </div>
-                   <div class="push">{{ item.medium }} {{item.year}}</div>
+                   <div class="push">{{ item.medium }}: {{item.year}}</div>
 
 
                    </div>
-                     <p>{{ item.logline }}</p>
+                    <!--  <p>{{ item.logline }}</p> /-->
+                      {% endif %}
+                {% endfor %}
 
-            
+
           </div>
