@@ -191,3 +191,44 @@
   year: 1998
   short-code: writing-with-the-set
   subfolderitems:
+
+- name: Write a novel instead
+  medium: Opinion
+  group: article
+  logline:
+  year: 2007
+  short-code: write-a-novel-instead
+  subfolderitems:
+
+- name: The Heroine's Journey
+  medium: Gloss
+  group: article
+  logline:
+  year: 2007
+  short-code: heroines-journey
+  subfolderitems:
+
+- name: Writing and toddlers
+  medium: Life
+  group: article
+  logline:
+  year: 2006
+  short-code: toddlers-writing
+  subfolderitems:
+
+
+- name: Should I write a treatment?
+  medium: Opinion
+  group: article
+  logline:
+  year: 2004
+  short-code: treatments
+  subfolderitems:
+
+- name: Should I write for free?
+  medium: Opinion
+  group: article
+  logline:
+  year: 2006
+  short-code: write-for-free
+  subfolderitems:
