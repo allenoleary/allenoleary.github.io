@@ -128,7 +128,66 @@
 - name: Can designers teach writer's anything much?
   medium: Writing advice
   group: article
-  logline: Review of a script writing book
+  logline:
   year: 2005
   short-code: designers
+  subfolderitems:
+
+- name: Dark Mountain 3
+  medium: Review
+  group: article
+  logline:
+  year: 2012
+  short-code: dark-mountain
+  subfolderitems:
+
+- name: How to write and eat at the same time
+  medium: Opinion
+  group: article
+  logline:
+  year: 2005
+  short-code: life-and-writing
+  subfolderitems:
+
+
+- name: Writing plays (for screenwriters)
+  medium: Opinion
+  group: article
+  logline:
+  year: 2005
+  short-code: writing-plays-for-screenwriters
+  subfolderitems:
+
+- name: Writing - is it really about the money?
+  medium: Opinion
+  group: article
+  logline:
+  year: 2006
+  short-code: writing-money
+  subfolderitems:
+
+
+- name: Reasons not to make a short movie
+  medium: Opinion
+  group: article
+  logline:
+  year: 2006
+  short-code: dont-make-a-short
+  subfolderitems:
+
+
+- name: Storytelling versus plotting - Lines by Tim Ingold
+  medium: Review article
+  group: article
+  logline:
+  year: 2012
+  short-code: storytelling-plotting
+  subfolderitems:
+
+- name: Writing with the set, writing with space, writing with the  theatre (a letter to Stephen)
+  medium: Letter sodden with theory
+  group: article
+  logline:
+  year: 1998
+  short-code: writing-with-the-set
   subfolderitems:

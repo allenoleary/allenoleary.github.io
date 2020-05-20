@@ -9,12 +9,10 @@
             {% for item in doclist %}
               {% if item.group == "article" %}
                 <div class="listing"><div>
-                  {{ item.name }}
-                    {% if item.short-code != "" %}
-                      <b><a href="/articles/{{ item.short-code }}.html"> [>] </b></a>
-                    {% endif %}
+                  <a href="/articles/{{ item.short-code }}.html"> {{ item.name }}</a><br /> {{ item.medium }} 
+
                     </div>
-                   <div class="push">{{ item.medium }}: {{item.year}}</div>
+                   <div class="push">{{item.year}} </div>
 
 
                    </div>
