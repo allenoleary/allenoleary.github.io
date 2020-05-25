@@ -1,7 +1,5 @@
 - name: Home
   link: /
-- name: The works
-  link: /works.html
 - name: Stageplays
   link: /stage.html
 - name: Screenplays
@@ -16,3 +14,5 @@
   link: /articles.html
 - name: About
   link: /about.html
+- name: Contact
+  link: /stay-in-touch.html

@@ -1,5 +1,5 @@
 ---
-layout: listing
+layout: default
 title: Digital
 mast: Creative online work
 feature-image:
@@ -10,7 +10,7 @@ feature-caption:
 
 <p>I've worked online for money since 1997 in many roles from site-builder to information architect, project manager, UX consultant and plenty more. I have worked freelance, in agencies and in the not for profit sector. At the moment I work as a Product Owner on very large website projects for Macmillan Cancer Support.</p>
 
-<p>I discovered the internet as part of my post-grad writing course so a lot of my creative output in the late 90s was in hypertext format and I even won a couple of small prizes for this work.</p>
+<p>I discovered the internet as part of my post-grad writing course so a lot of my creative output in the late 90s was in hypertext format and I won a few prizes for this work.</p>
 
 <!--
 <h2>Synaesthesia - 2001</h2>
@@ -79,8 +79,10 @@ feature-caption:
 <button type="button" class="collapsible" aria-label="Show details screen play called Boy on a bike">Details [+]</button>
 <div class="content">
 
-<p class="details">This essay, written for no other reason than I wanted to write, is about identity and the virtual. In some senses theatre has always been virtual, so there is rich ground here in looking at Theatre through the lens of technology rather than performance. I never quite finished this one, so provided as is and rough around the edges. I look back on this and have to admire myself for even starting this, and horrified that I didn't finish this as part of an MA.
+<p>This essay, written for no other reason than I wanted to write it, is about identity and the virtual. In some senses theatre has always been virtual, so there is rich ground here in looking at Theatre through the lens of technology rather than performance. </p>
+
+<p>I never quite finished this one, so provided as is and rough around the edges. I look back on this and have to admire myself for even starting this, and horrified that I didn't finish this as part of an MA.
 </p>
 
-<p><a href="in-the-age.html" class="reviews" window="\_blank">Start S.I.N.</a></p>
+<p><a href="in-the-age.html" class="reviews" window="\_blank">Read it</a></p>
 </div>

@@ -9,7 +9,7 @@ feature-position: center top
 ---
 
 
-So this is an essay I wrote just for fun around 2001. Looking back it's easy to see that this is an MA's worth of thinking and work, but I did it out of hours over maybe four months while working my first internet jobs. I either didn't have much of a life or I was very interested in what I was writing about (let's chose the later). Bits and pieces of it are in note format, but there is still a lot in here...
+So this is an essay I wrote just for fun around 2001. Looking back it's easy to see that this is an MA's worth of thinking and work, but I did it out of hours over maybe four months while working my first internet job. I either didn't have much of a life or I was very interested in what I was writing about - let's chose the later. Bits and pieces of it are in note format, but there is still a lot in here...
 
 1. Table of contents
 {:toc}

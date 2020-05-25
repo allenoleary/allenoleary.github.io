@@ -19,7 +19,7 @@
       <ul>
       {% for item in site.data.sitenav %}
         <li><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li>
-    {% endfor %}
+    {% endfor %} 
   </ul>
     </div>
 

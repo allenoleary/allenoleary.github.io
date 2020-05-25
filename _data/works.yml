@@ -94,7 +94,7 @@
 
 
 - name: Balance
-  medium: Non-fiction
+  medium: Life writing
   group: other
   logline: A book I am writing about all the bikes I have owned.
   year: 2020
@@ -126,7 +126,7 @@
   subfolderitems:
 
 - name: Can designers teach writer's anything much?
-  medium: Writing advice
+  medium: On writing
   group: article
   logline:
   year: 2005
@@ -142,7 +142,7 @@
   subfolderitems:
 
 - name: How to write and eat at the same time
-  medium: Opinion
+  medium: On writing
   group: article
   logline:
   year: 2005
@@ -151,7 +151,7 @@
 
 
 - name: Writing plays (for screenwriters)
-  medium: Opinion
+  medium: On writing - screenplays & stageplays
   group: article
   logline:
   year: 2005
@@ -159,7 +159,7 @@
   subfolderitems:
 
 - name: Writing - is it really about the money?
-  medium: Opinion
+  medium: On writing
   group: article
   logline:
   year: 2006
@@ -168,7 +168,7 @@
 
 
 - name: Reasons not to make a short movie
-  medium: Opinion
+  medium: On writing - screenplays
   group: article
   logline:
   year: 2006
@@ -185,15 +185,15 @@
   subfolderitems:
 
 - name: Writing with the set, writing with space, writing with the  theatre (a letter to Stephen)
-  medium: Letter sodden with theory
+  medium: Writing theory
   group: article
   logline:
   year: 1998
   short-code: writing-with-the-set
   subfolderitems:
 
-- name: Write a novel instead
-  medium: Opinion
+- name: Write a novel instead?
+  medium: On writing
   group: article
   logline:
   year: 2007
@@ -201,7 +201,7 @@
   subfolderitems:
 
 - name: The Heroine's Journey
-  medium: Gloss
+  medium: On writing - screenplays
   group: article
   logline:
   year: 2007
@@ -209,7 +209,7 @@
   subfolderitems:
 
 - name: Writing and toddlers
-  medium: Life
+  medium: On writing
   group: article
   logline:
   year: 2006
@@ -218,7 +218,7 @@
 
 
 - name: Should I write a treatment?
-  medium: Opinion
+  medium: On writing - screenplays
   group: article
   logline:
   year: 2004
@@ -226,9 +226,68 @@
   subfolderitems:
 
 - name: Should I write for free?
-  medium: Opinion
+  medium: On writing
   group: article
   logline:
   year: 2006
   short-code: write-for-free
+  subfolderitems:
+
+
+- name: Read it aloud
+  medium: On writing - drama
+  group: article
+  logline:
+  year: 2005
+  short-code: read-it-aloud
+  subfolderitems:
+
+- name: Your character journeys are really your own
+  medium: On writing - drama
+  group: article
+  logline:
+  year: 2005
+  short-code: your-journeys
+  subfolderitems:
+
+- name: Stories in space not time
+  medium: Writing theory
+  group: article
+  logline:
+  year: 2012
+  short-code: stories-in-space-not-time
+  subfolderitems:
+
+- name: Why write poetry?
+  medium: On writing - poetry
+  group: article
+  logline:
+  year: 2019
+  short-code: why-write-poetry
+  subfolderitems:
+
+- name: Digital, charities and the culture of senior management
+  medium: Digital culture & charities                                                                                cccf
+  group: article
+  logline:
+  year: 2017
+  short-code: digital-and-senior-managment
+  subfolderitems:
+
+
+
+- name: Why is Social so hard to get right?
+  medium: Digital culture & charities
+  group: article
+  logline:
+  year: 2017
+  short-code: social-hard-to-get-right
+  subfolderitems:
+
+- name: Tell, show, do - the time to be useful online is now
+  medium: Digital culture & charities
+  group: article
+  logline:
+  year: 2016
+  short-code: tell-show-do
   subfolderitems:

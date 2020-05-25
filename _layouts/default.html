@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" type="text/css" title="dark" href="/assets/css/styleDarkTheme.css">
-<link rel="alternate stylesheet" type="text/css" title="light" href="/assets/css/styleLightTheme.css">
+
 
 <link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
 
@@ -18,7 +18,7 @@
       <h1>Allen&nbsp;O'Leary</h1>
       <ul>
       {% for item in site.data.sitenav %}
-        <li><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li>
+        <li><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li> 
     {% endfor %}
   </ul>
     </div>
@@ -77,3 +77,5 @@
 
   </body>
 </html>
+
+ <script type = "text/javascript" src = "/assets/js/collapse.js" ></script>

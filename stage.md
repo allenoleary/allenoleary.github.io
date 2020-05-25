@@ -1,5 +1,5 @@
 ---
-layout: listing
+layout: default
 title: Stageplays
 mast: Current and produced stage and radio plays.
 feature-image:
@@ -27,15 +27,14 @@ feature-caption:
 <button type="button" class="collapsible" aria-label="Show details screen play called The Rig">Details [+]</button>
 <div class="content">
 
-    <p><img src="/assets/img/my-inner-orc.jpg" width="100%"></p>
+<p><img src="/assets/img/my-inner-orc.jpg" width="100%"></p>
 
 <p class="details"><b>Pleasance Theatre, London, 2010</b><br />
 A Shaky Isles production<br />
 Director – Stella Duffy<br />
-Set and costumes – Kate <br />
-Cast – Eleanor Lawrence, Aaron Buskin, Kane Bixley, Emma Deakin, Emma Newborn</p>
+With: Eleanor Lawrence, Aaron Buskin, Kane Bixley, Emma Deakin, Emma Newborn</p>
 
-<p><a href="my-inner-orc.html" class="reviews">Reviews and gallery</a></p>
+<p><a href="my-inner-orc.html" class="reviews">Reviews & gallery</a></p>
 
 </div>
 
@@ -48,17 +47,16 @@ Cast – Eleanor Lawrence, Aaron Buskin, Kane Bixley, Emma Deakin, Emma Newborn<
 <button type="button" class="collapsible" aria-label="Show details screen play called Boy on a bike">Details [+]</button>
 <div class="content">
 
-    <p><img src="/assets/img/flak.jpg" width="100%"></p>
+<p><img src="/assets/img/flak.jpg" width="100%"></p>
 
 <p class="details"><b>Downstage theatre, Wellington, 2003</b><br />
-‍
-Director – Murray Lynch.<br />
+‍Director – Murray Lynch.<br />
 Dramaturg – Philippa Campbell<br />
 With: Kelson Henderson, Danielle Mason, Mick Rose, Danielle Mason, Jo Smith<br />
 
 </p>
 
-<p><a href="/flak.html" class="reviews">Production details and reviews </a></p>
+<p><a href="/flak.html" class="reviews">Details & reviews </a></p>
 
 
 
@@ -78,9 +76,9 @@ With: Kelson Henderson, Danielle Mason, Mick Rose, Danielle Mason, Jo Smith<br /
 <p class="details"><b>Lamama theatre, Melbourne, 2000</b><br />
 ‍
 Director – Iain Sinclair. <br />
-Cast – Michael Butcher, Lenore McGregor, Pip Branson, Lucie O’Brien</p>
+With: Michael Butcher, Lenore McGregor, Pip Branson, Lucie O’Brien</p>
 
-<p><a href="/deviations.html" class="reviews">Production details and reviews </a></p>
+<p><a href="/deviations.html" class="reviews">Details & reviews</a></p>
 </div>
 
 <!--------------------------------------------------------------->
@@ -93,16 +91,16 @@ Cast – Michael Butcher, Lenore McGregor, Pip Branson, Lucie O’Brien</p>
 <div class="content">
 
 
-    <p><img src="/assets/img/vampyre.jpg" width="100%"></p>
+ <p><img src="/assets/img/vampyre.jpg" width="100%"></p>
 <p  class="details"><b>Circa theatre, Wellington, 1996</b><br />
 ‍
 
 ‍Director – Murray Lynch<br />
 Music – Janet Roddick<br />
 Set – John Parker<br />
-Cast – Jacob Rajan, Claire Waldron, Peter Hambleton, Malcolm Murray, Geraldine Brophy, Sean Allen</p>
+With: Jacob Rajan, Claire Waldron, Peter Hambleton, Malcolm Murray, Geraldine Brophy, Sean Allen</p>
 
-<p><a href="/vampyre.html" class="reviews">Production details and reviews </a></p>
+<p><a href="/vampyre.html" class="reviews">Details & reviews </a></p>
 
 </div>
 
@@ -115,7 +113,7 @@ Cast – Jacob Rajan, Claire Waldron, Peter Hambleton, Malcolm Murray, Geraldine
 
 <button type="button" class="collapsible" aria-label="Show details screen play called the one two three">Details [+]</button>
 <div class="content">
-<p  class="details"><b>RadioNZ, CBC, 2000, 2005, 2008, 2017</b><br />
+<p  class="details"><b>RadioNZ, CBC: 2000, 2005, 2008, 2017</b><br />
 </p></div>
 
 <!--------------------------------------------------------------->
@@ -126,5 +124,5 @@ Cast – Jacob Rajan, Claire Waldron, Peter Hambleton, Malcolm Murray, Geraldine
 
 <button type="button" class="collapsible" aria-label="Show details screen play called the one two three">Details [+]</button>
 <div class="content">
-<p  class="details"><b>Radio NZ, 1995</b><br />
+<p  class="details"><b>Radio NZ: 1995</b><br />
 </p></div>

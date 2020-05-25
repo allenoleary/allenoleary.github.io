@@ -10,19 +10,21 @@ feature-position:
 
 ## Poetry
 
-So this is an empty page.
+So this is a poetry page with no poetry on it.
 
 Blame the publishing world and the urge of online and offline publications to have exclusives.
 
-Basically if you want to enter a poem in a competition or have it considered for publication you can't put it online and make it available as this counts as prior publication.
+As an author if you want to enter a poem in a competition or have it considered for publication you can't put it online and make it available as this counts as prior publication.
 
 I get it but also it goes against the principle of the internet as a whole and the idea of free and open publication in particular.
 
 And perhaps I shouldn't care and just put stuff up here anyway.
 
-But then I still have some lingering ambition around my writing and have yet to give up dreams of publication, so, for the time being, this is a poetry page without any poetry.
+But then I still have some lingering ambition around my writing and have yet to give up dreams of publication, so, for the time being, this is a poetry page without any poetry on it.
 
-However I do write quite a lot of it and I do intend to privately circulate some poetry soon. Sending an email with a poem in it is ok apparently as that is private correspondence.
+If you want to be on very occiasional mailing list for poetry you can [sign up here](https://tinyletter.com/allenoleary).
+
+Or read my piece on [why write poetry?](/articles/why-write-poetry.html)
 
 ## Manhire
 
