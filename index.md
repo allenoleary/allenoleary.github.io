@@ -29,10 +29,3 @@ I have a very occasional newsletter that goes to not many people; once or twice 
 Day by day I tend to pop stuff on Instagram: [@allenoleary](https://www.instagram.com/allenoleary/)
 
 
-<h2>More to look at...</h2>
-
-     <ul>
-      {% for item in site.data.sitenav %}
-        <li><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li> 
-    {% endfor %}
-  </ul>
