@@ -12,7 +12,9 @@ A UK based kiwi into writing, digital and cycling.
 
 <img src="/assets/img/balance.jpg">
 
-fter a couple of years my 'blog to book' about cycling is ready to read and send around agents and publishers in the UK. 
+After a couple of years of development my 'blog to book' about cycling is ready to read and send around agents and publishers in the UK.
+
+[More here](/cycology) 
 
 ### The White Queen - play script
 

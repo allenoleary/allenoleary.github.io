@@ -27,7 +27,8 @@ h3 {color: #66d9ef;}
 ul {padding:0 0 0 4em; margin:0; line-height: 0; list-style-position: inner}
 
 p {padding-left: 2.3em}
-.listing p {color: white }
+.listing div {color: darkgray; line-height: 1.2rem; padding-bottom: .25rem;}
+.listing a {color: white; text-decoration: none; padding-right: .5rem;}
 p.logline {color: white}
 p.details {color: #66d9ef}
 .content p {margin-right: 3em;}
