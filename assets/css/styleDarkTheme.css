@@ -61,7 +61,7 @@ h3 {color: #66d9ef;}
 ul {padding:0 0 0 2em; margin:0; line-height: 0; list-style-position: inner}
 
 p {padding-left: 1rem}
-.listing div {color: darkgray; line-height: 1.2rem; padding-bottom: .25rem;}
+.listing div {color: darkgray; line-height: 1rem; font-size: 20px; padding-bottom: .25rem;}
 .listing a {color: white; text-decoration: none; padding-right: .5rem;}
 p.logline {color: white}
 p.details {color: #66d9ef}
