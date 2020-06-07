@@ -11,61 +11,56 @@
   </head>
   <body>
 
-  <article>
+<div class="wrapper">
+
+
 
     <nav>
       <div id="menu">
       <h1>Allen&nbsp;O'Leary</h1>
-      <ul>
-      {% for item in site.data.sitenav %}
-        <li><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li> 
-    {% endfor %}
-  </ul>
-    </div>
+        <ul>
+        {% for item in site.data.sitenav %}
+          <li><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li> 
+        {% endfor %}
+        </ul>
+      </div>
+    </nav>
 
 
-  </nav>
-
-
-    <!--  <section>
+<!--  <section>
         <h1>{{page.title}}</h1>
         <p>{{ page.mast }}</p>
       </section> //-->
-
 <!-- conditional to check if there is a feature image present -->
-
-
-
-
-
 
   <section>
 
 
-<h1>{{page.title}}</h1>
-{% if page.year %}
-<p> {{ page.year }} </p>
-{% endif %}
+    <h1>{{page.title}}</h1>
 
-{% if page.feature-image %}
-  <p>{{ page.mast }}</p>
-      <img src="/assets/img/{{page.feature-image}}">
-      <figcaption>{{ page.feature-caption}}</figcaption>
+    {% if page.year %}
+      <p> {{ page.year }} </p>
+    {% endif %}
 
+    {% if page.feature-image %}
+      <p>{{ page.mast }}</p>
+          <img src="/assets/img/{{page.feature-image}}">
+          <figcaption>{{ page.feature-caption}}</figcaption>
+     {% endif %}
 
-
-  {% endif %}
-
-          {{ content }}
-      </section>
-
+     {{ content }}
+  
+  </section>
 
 
-    </article><!-- article-->
 
-    <footer>
 
-    </footer>
+
+<footer>
+<p>Copyright Allen O'Leary 1997-2020</p>
+</footer>
+
+</div><!-- /wrapper -->
 
 
 

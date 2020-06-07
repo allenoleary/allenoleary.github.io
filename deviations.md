@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 title: Deviations
 mast: A black comedy of sexual manners.
 margin-note: This is a nargin note

@@ -1,10 +1,10 @@
 ---
-layout: work
+layout: default
 title: The Vampyre Dances
 mast: A Victorian Sci-fi Vampire play about colonialism and empire.
 margin-note: This is a nargin note
 feature-image: vampyre.jpg
-feature-caption: Jakob Rajan and Claire in the Downstage production
+feature-caption: Jakob Rajan and Clare Waldron in the Downstage production
 feature-position: center top
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 title: My Inner Orc
 mast: Paranoia and magic at a Lord of the Rings Convention.
 margin-note: This is a nargin note
