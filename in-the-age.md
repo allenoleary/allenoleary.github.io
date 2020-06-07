@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 title: Theatre in the age of intelligent machines
 mast: A Victorian Sci-fi Vampire play about colonialism and empire.
 margin-note: This is a nargin note
