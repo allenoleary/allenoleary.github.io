@@ -49,7 +49,7 @@ footer {grid-area: footer;}
 
 h1, h2, h3 { font-family: 'Conso', 'Courier New', monospace; font-weight: bold; font-size: 20px; line-height: 28px; color: #1E000E }
 p, li {font-size: 20px; line-height: 28px; }
-a {color: #FC7A57; text-decoration: underli;}
+a {color: #FC7A57; text-decoration: underline;}
 
 h2::before {
   counter-increment: section;
@@ -102,9 +102,9 @@ line {stroke:rgb(0, 0, 0); stroke-width: 2}
   font-size: 20px;
   padding: 3px 9px 3px 15px;
   margin-left: 33%;
-  color: #66d9ef;
+  color: white;
   /*color: #66d9ef;*/
-  background-color: #00303e;
+  background-color: #1E000E;
   font-family: 'Conso', 'Courier New', monospace;
 }
 
