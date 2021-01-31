@@ -65,7 +65,7 @@ p {padding-left: 1rem}
 .listing a {color: white; text-decoration: none; padding-right: .5rem;}
 p.logline {color: black}
 p.details {color: #66d9ef}
-.content p {margin-right: 3em;}
+.content p {margin-right: 3em; color: white}
 
 /*-- BRANDING --*/
 
