@@ -82,6 +82,8 @@ color: #66d9ef;
   width: 100%;
   background: url(/assets/img/dash.svg);
   background-repeat: repeat-x;
+  color: black;
+  background-color: white;
 }
 
 .listing > div, .sublisting > div  {background-color: black; margin-bottom: 12px}
