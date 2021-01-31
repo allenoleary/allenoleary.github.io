@@ -47,7 +47,7 @@ footer {grid-area: footer;}
 
 /* TEXT */
 
-h1, h2, h3 { font-family: 'Conso', 'Courier New', monospace; font-weight: bold; font-size: 20px; line-height: 28px; color: #efe158 }
+h1, h2, h3 { font-family: 'Conso', 'Courier New', monospace; font-weight: bold; font-size: 20px; line-height: 28px; color: #1E000E }
 p, li {font-size: 20px; line-height: 28px; }
 a {color: #66d9ef; text-decoration: underli;}
 
