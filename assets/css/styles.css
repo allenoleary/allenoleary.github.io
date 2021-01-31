@@ -7,8 +7,8 @@ html, body {
   margin: 0; padding: 0;
   font-family:  'Conso', 'Courier New', monospace;
   font-size: 18px;
-  background-color: #00303e;
-  color: white;
+  background-color: /*#00303e8*/ white ;
+  color: black;
   counter-reset: section;
 
 }
