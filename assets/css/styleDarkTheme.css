@@ -102,9 +102,9 @@ line {stroke:rgb(0, 0, 0); stroke-width: 2}
   font-size: 20px;
   padding: 3px 9px 3px 15px;
   margin-left: 33%;
-  color: white;
+  color: #D14081;
   /*color: #66d9ef;*/
-  background-color: #1E000E;
+  background-color: white;
   font-family: 'Conso', 'Courier New', monospace;
 }
 
