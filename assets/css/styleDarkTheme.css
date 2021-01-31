@@ -56,7 +56,7 @@ h2::before {
   content: "" counter(section) "/. ";
 }
 
-h3 {color: #66d9ef;}
+h3 {color: #D14081;}
 
 ul {padding:0 0 0 2em; margin:0; line-height: 0; list-style-position: inner}
 
