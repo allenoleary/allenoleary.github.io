@@ -13,7 +13,7 @@ feature-position: right top
 
 ## Round 1: Writing and drama
 
-As an upstart 17 year old I did the infamous Creative Writing course at Victoria University with Bill Manhire. I got an A for my potry portfolio which meant quite a lot a the time, being so young. But then I lost confidence and never really tried to get any poetry published.
+As an upstart 17 year old I did the infamous Creative Writing course at Victoria University with Bill Manhire. I got an A for my poetry portfolio which meant quite a lot a the time, being so young. But then I lost confidence and never really tried to get any poetry published.
 
 I also had the drama bug and, while I was attending University in Wellington and Dunedin, managed to fit a little bit of coursework around a frenetic schedule of theatre making. This was a not a great way to get good marks or finish a degree. The one year I decided to limit my acting I got straight As across my arts courses but my heart wasn't in it and I never finished my degree.
 
@@ -21,13 +21,7 @@ I also had the drama bug and, while I was attending University in Wellington and
 
 Drama school was the right place for me at the right time, I loved my time at The New Zealand Drama School (1990-91). After graduation I had a solid young-actor career and did a range of theatre, devised theatre, radio, TV, playback theatre and short films; plus script development workshops and a bit of script reading. I was good enough that I didn't need a second job.
 
-Highlights include:
-
-	- Dolls House, Circa Theatre
-	- 12th Night, Circa and Depot
-	- Comedy of errors, Circa
-	- Unidentified Human Remains, Circa
-	- Fallout, TVNZ
+Highlights include: Dolls House, Circa Theatre; 12th Night, Circa and Depot; Comedy of errors, Circa;  Unidentified Human Remains, Circa; Fallout, TVNZ.
 
 ## Round 3: Playwriting
 
@@ -49,7 +43,7 @@ At the turn of the Millennium I moved to London. While still writing plays I als
 
 ## Round 6: Cycology and back to poetry.
 
-While I was writing fiction I also started writing pieces about cycling and then my 'blog to book' Balance. The attraction of this at the time was simply to see something on a page in public - I could write a good blog in a couple of sittings. 
+While I was writing fiction I also started writing pieces about cycling and then my 'blog to book' Balance. The attraction of this at the time was simply to see something on a page in public - I could write a good blog in a couple of sittings.
 
 [Some writing about riding](cycology.html)
 
