@@ -87,7 +87,7 @@ color: #66d9ef;
   background-color: white;
 }
 
-.listing > dicv > a {color: #D14081; background-color: white}
+.listing > div > a {color: #D14081; background-color: white}
 
 .listing > div, .sublisting > div  {color: black; background-color: white; margin-bottom: 12px}
 .sublisting > div {padding-left:2em}
