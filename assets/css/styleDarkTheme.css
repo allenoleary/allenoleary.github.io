@@ -63,7 +63,7 @@ ul {padding:0 0 0 2em; margin:0; line-height: 0; list-style-position: inner}
 p {padding-left: 1rem}
 .listing div {color: darkgray; line-height: 1rem; font-size: 20px; padding-bottom: .25rem;}
 .listing a {color: white; text-decoration: none; padding-right: .5rem;}
-a.pink{color: #66d9ef; text-decoration: none; padding-right: .5rem;}
+.pink{color: #66d9ef; text-decoration: none; padding-right: .5rem;}
 p.logline {color: black}
 p.details {color: #66d9ef}
 .content p {margin-right: 3em; color: white}
