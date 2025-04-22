@@ -4,8 +4,7 @@ title: Home
 ---
 # Allen O'Leary
 
-Intralect, dramatect, musopoetic artisticrat,
-cycloflanneur
+Intralect, dramatect, musopoetic artisticrat, cycloflanneur
 
 ## Latest
 
