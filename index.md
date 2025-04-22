@@ -4,7 +4,8 @@ title: Home
 ---
 # Allen O'Leary
 
-A UK based kiwi into writing, digital and cycling.
+Intralect, dramatect, musopoetic artisticrat,
+cycloflanneur
 
 ## Latest
 
