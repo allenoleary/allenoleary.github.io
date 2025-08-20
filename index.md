@@ -8,13 +8,13 @@ Intralect, dramatect, musopoetic artisticrat, cycloflanneur
 
 ## Latest
 
-### Balance - life, one bicycle at a time
+### Voyager
 
 <img src="/assets/img/balance.jpg">
 
 After a couple of years of development my 'blog to book' about cycling is ready to read and send around agents and publishers in the UK.
 
-[More here](/cycology) 
+[More audie works here](/audio) 
 
 ### The White Queen - play script
 
