@@ -10,7 +10,7 @@ Intralect, dramatect, musopoetic artisticrat, cycloflanneur
 
 ### Voyager
 
-<img src="/assets/img/balance.jpg">
+<img src="/assets/img/screenshot-2024-03-10-at-19.webp">
 
 After a couple of years of development my 'blog to book' about cycling is ready to read and send around agents and publishers in the UK.
 
